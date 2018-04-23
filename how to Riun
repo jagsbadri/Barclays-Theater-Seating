@@ -1,0 +1,12 @@
+
+>>Have Used JDK 8  to implement this user story.
+
+>>I have bundled as Zip and uploaded the project.
+
+>> Main Class is TheatreSeatAllocator which expects the input as a .txt file.
+
+To Run the application:
+java -jar src/resources/theatre-seating.jar src/resources/InputData.txt
+
+
+Thanks!
